@@ -4,7 +4,7 @@ class Gsts < Formula
   desc "Obtain and store AWS STS credentials by authenticating via G Suite SAML"
   homepage "https://github.com/ruimarinho/gsts"
   url "https://github.com/ruimarinho/gsts/archive/v4.1.0.tar.gz"
-  sha256 "da71331e16a7025789faa669fb4cb7a6aa8ce802159952ebf481e6b77602b7e7"
+  sha256 "1621ba073c54c8fce654537b30941983cfc20cd4ec25c216567efe77364a8100"
   license "MIT"
 
   depends_on "node"
