@@ -1,13 +1,11 @@
 # 🍻 Homebrew Tap
 
-A [Homebrew Tap](https://docs.brew.sh/Taps) for some of my open source projects.
-
 # Usage
 
 Tap this repository into to your local Homebrew installation:
 
 ```shell
-❯ brew tap ruimarinho/tap
+❯ brew tap o6uoq/gsts-4.1.0
 ```
 
 Install any available packages just like any other Homebrew package:
